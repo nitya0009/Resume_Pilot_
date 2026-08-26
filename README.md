@@ -4,8 +4,8 @@
 An AI-powered resume builder designed to help students and job seekers create, manage, and improve professional resumes efficiently.
 
 Resume Pilot combines a modern React frontend with a Node.js/Express backend and MongoDB to provide a full-stack resume management experience with AI-assisted resume generation and editing.
-# Live server:https:
-//resume-pilot-nine.vercel.app/.
+# Live server:
+https://resume-pilot-nine.vercel.app/.
 
 
 ## Project Structure
